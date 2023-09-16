@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
 /**
- * 作者: @author Harmon <br>
+ * 作者: @author lixuehui <br>
  * 时间: 2017-09-08 13:20<br>
  * 描述: ApiUploadController <br>
  */
